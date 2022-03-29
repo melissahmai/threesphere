@@ -1,3 +1,9 @@
+%%%%%%%%%%%%%%%%%%%%%%
+
+Code for model in "Hydrodynamic Effects on the Motility of Crawling Eukaryotic Cells"
+MH Mai and BA Camley, Soft Matter 2020
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
